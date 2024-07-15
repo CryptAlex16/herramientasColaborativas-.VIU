@@ -1,1 +1,3 @@
-Hola mi nombre es Alex Alvarez, tengo 23 años
+Hola mi nombre es Alex Alvarez, 
+tengo 23 años
+vivo en Latacunga
